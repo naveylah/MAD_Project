@@ -30,11 +30,12 @@ Objective:
 ![Screenshot (147)](https://user-images.githubusercontent.com/48626338/124000505-39d74400-da06-11eb-9147-7dd667ab2786.png)
 
 # Transaction
-![Screenshot (140)](https://user-images.githubusercontent.com/48626338/124000631-5d01f380-da06-11eb-868f-fa44dda311ad.png)
-![Screenshot (141)](https://user-images.githubusercontent.com/48626338/124000647-625f3e00-da06-11eb-9b80-d85ce305b352.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/48626338/124002657-976c9000-da08-11eb-9f74-8a469423e8ff.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/48626338/124002686-9dfb0780-da08-11eb-9bde-e24a167a84d4.png)
 
 As you can see, the amount of ether in first address shown in Ganache UI has increased.
-![Screenshot (142)](https://user-images.githubusercontent.com/48626338/124000849-99355400-da06-11eb-89ff-7bfd2f17c234.png)
+
+![Screenshot (153)](https://user-images.githubusercontent.com/48626338/124002756-b4a15e80-da08-11eb-9441-e866859b502a.png)
 
 
 
