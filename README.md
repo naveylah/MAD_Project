@@ -1,4 +1,4 @@
-# mad_mad
+# TUTORING APP
 
 A new Flutter project.
 
