@@ -38,7 +38,7 @@ Objective:
 ![Screenshot (149)](https://user-images.githubusercontent.com/48626338/124002657-976c9000-da08-11eb-9f74-8a469423e8ff.png)
 ![Screenshot (150)](https://user-images.githubusercontent.com/48626338/124002686-9dfb0780-da08-11eb-9bde-e24a167a84d4.png)
 
-As you can see, the amount of ether in first address shown in Ganache UI has decreased.
+Transaction successful, the amount of ether in first address shown in Ganache UI has decreased.
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/48626338/124002756-b4a15e80-da08-11eb-9441-e866859b502a.png)
 
